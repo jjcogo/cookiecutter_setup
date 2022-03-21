@@ -1,5 +1,6 @@
 # cookiecutter_setup 
 Taken from JustDjango at https://www.youtube.com/watch?v=8c14GBrbglw&t=154s
+https://justdjango.com/blog/django-docker-tutorial
 
 ### Please note, usernames and passwords in currentProject/.envs/.local/.postgres must be changed by generating your own CookieCutter build from line 37. As these usernames and passwords are now compromised at publishing
 
